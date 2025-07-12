@@ -1,0 +1,2 @@
+from .fashion_mnist_cnn import FashionMNISTCNN
+from .fashion_mnist_resnet import FashionMNISTResNet

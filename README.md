@@ -1,4 +1,4 @@
-# Maverick_FL
+# Maverick_client_selection
 Code repository for paper "Maverick Matters: Client Contribution and Selection in
 Federated Learning", PAKDD2023.
 The example dataset is FashionMNIST, the downloading and default model settings are already set in the maverick.py, you do not need to prepare by yourself.

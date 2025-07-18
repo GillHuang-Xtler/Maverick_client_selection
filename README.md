@@ -7,6 +7,8 @@ The example dataset is FashionMNIST, the downloading and default model settings 
 
 - python version: py3.7 +
 - pip install -r requirements.txt
+- python generate_data_distribution.py
+- python generate_default_models.py
 - arguments are in 'federated_learning/arguments.py' + maverick.py
 - set a START_EXP_IDX in maverick.py and run maverick.py
 - the logs/results data will be in the logs/res folder
